@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Compolomus\\Sudoku\\SudokuTest::testGenerate":3},"times":{"Compolomus\\Sudoku\\SudokuTest::testGenerate":15.458,"Compolomus\\Sudoku\\SudokuTest::test__construct":0.005}}
