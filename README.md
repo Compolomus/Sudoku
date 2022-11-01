@@ -24,3 +24,5 @@ use Compolomus\Sudoku\Sudoku;
 ```
 
 ## See example!
+
+![Sudoku example](https://github.com/Compolomus/Sudoku/blob/master/sudoku.png?raw=true)
